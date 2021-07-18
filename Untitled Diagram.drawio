@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-07-18T09:20:08.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.6" etag="oId16ewIs43-fZkQirya" type="github"><diagram id="CgsmYzYnnFOA1xmTcont">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-18T09:54:08.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BG46DE83qBmwHnu_Xcbq" version="14.8.6" type="github">
+  <diagram id="CgsmYzYnnFOA1xmTcont" name="Page-1">
+    <mxGraphModel dx="922" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-2" value="ingresar datos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-4" value="funcion recolectar datos del pasajero/s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-5" value="&lt;span&gt;funcion asignar puestos segun orden&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-7" value="verificar disponibilidad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xojz7Cz1jGJyBmqeOAa-9" target="9xojz7Cz1jGJyBmqeOAa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-9" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-10" value="&lt;span&gt;venta de tiiquetes&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-13" value="Funcion ingresar datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xojz7Cz1jGJyBmqeOAa-14" target="9xojz7Cz1jGJyBmqeOAa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-14" value="&lt;span&gt;c=cantidad puestos&lt;/span&gt;&lt;br&gt;&lt;span&gt;f=fecha&lt;/span&gt;&lt;br&gt;&lt;span&gt;h=hora&lt;/span&gt;&lt;br&gt;&lt;span&gt;o=ciudad origen&lt;/span&gt;&lt;br&gt;&lt;span&gt;d=ciudad destino&lt;/span&gt;&lt;br&gt;&lt;span&gt;i=Datos pasajero&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-16" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-20" value="Funcion veificar disponibilidad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-21" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-22" value="Funcion ingresar&lt;br&gt;datos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9xojz7Cz1jGJyBmqeOAa-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
